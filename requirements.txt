@@ -1,0 +1,7 @@
+# pkg install python
+phonenumbers
+colorama
+pytz
+alive-progress
+geopy
+ 
